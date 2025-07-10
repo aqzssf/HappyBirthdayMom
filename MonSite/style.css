@@ -1,0 +1,33 @@
+img {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
+body{
+  background-color: #defffc;
+}
+img{
+  box-shadow: 5px 2px 10px 20px rgba(0, 0, 0, 0.2);
+}
+a{
+  display:block;
+  text-align: center;
+}
+h1{
+  color:#70b0aa;
+}
+h2{
+  color:#70b0aa;
+}
+h1{
+  libertinus-math-regular {
+  font-family: "Libertinus Math", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+  libertinus-math-regular {
+  font-family: "Libertinus Math", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
